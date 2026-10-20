@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Погода OpenWeather (Лаптев)</string>
+    <string name="title">Прогноз погоды</string>
+    <string name="city_hint">Введите город</string>
+    <string name="btn_get_weather">Узнать погоду</string>
+    <string name="city_label">Город: %s</string>
+    <string name="temp_label">Температура: %s °C</string>
+    <string name="desc_label">Погода: %s</string>
+    <string name="pressure_label">Давление: %1$s гПа (%2$s мм рт. ст.)</string>
+    <string name="wind_label">Скорость ветра: %s м/с</string>
+    <string name="humidity_label">Влажность: %s %%</string>
+    <string name="empty_city_error">Введите название города</string>
+    <string name="city_not_found">Город не найден</string>
+    <string name="network_error">Ошибка получения данных: %s</string>
+    <string name="default_dash">-</string>
+</resources>
